@@ -1,0 +1,1 @@
+This chapter focuses on organizing the widget tree for better readability and maintainability. We refactored the widget tree for the Login, Sign Up, and Home screens into smaller, logical methods, using Column for vertical layouts and creating reusable widgets like CustomButton for consistency.

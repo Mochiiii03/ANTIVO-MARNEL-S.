@@ -1,0 +1,1 @@
+In this chapter, It is introduced the essential widgets like TextField, ElevatedButton, and TextButton to handle user input and actions. The CustomButton widget was created for consistent button styling, used across the Login, Sign Up, and Home screens for streamlined design.

@@ -1,0 +1,2 @@
+
+I added interactive animations using AnimatedContainer and GestureDetector to create a dynamic Animated Box on the Home Screen. The box changes size and color when tapped, enhancing user engagement.

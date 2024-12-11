@@ -1,0 +1,1 @@
+This chapter focused on navigation using Navigator.pushNamed to move between screens. I implemented named routes (/login, /signup, /home) for seamless transitions between the Login, Sign Up, and Home screens, allowing users to navigate easily.
